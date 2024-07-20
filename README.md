@@ -1,11 +1,8 @@
-#Chat-GPT
+# Chat-GPT 
 
  ChatGPT was developed and launched by OpenAI on November 30, 2022. it is a significant leap in the field of artificial intelligence. Its primary goal was to address the limitations of AI responses, which were often overly linear.The __LLM__ (Large Language Model) Was a powerful tool in this project and was hugly utilized. 
 
 The project received substantial funding primarily from Microsoft, which provided $200 billion to support [Open-AI](OpenAI.com). Designed as both a proof of concept and a practical tool, ChatGPT stands out as the best of its kind currently available. 
-
-
-# Chat-GPT 
 
   
 
