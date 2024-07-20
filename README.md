@@ -1,6 +1,6 @@
 # Chat-GPT 
 
-/Chat-GPT was developed and launched by OpenAI on November 30, 2022. it is a significant leap in the field of artificial intelligence. Its primary goal was to address the limitations of AI responses, which were often overly linear.The __LLM__ (Large Language Model) Was a powerful tool in this project and was hugly utilized. 
+Chat-GPT was developed and launched by OpenAI on November 30, 2022. it is a significant leap in the field of artificial intelligence. Its primary goal was to address the limitations of AI responses, which were often overly linear.The __LLM__ (Large Language Model) Was a powerful tool in this project and was hugly utilized. 
 
 The project received substantial funding primarily from Microsoft, which provided $200 billion to support [Open-AI](OpenAI.com). Designed as both a proof of concept and a practical tool, ChatGPT stands out as the best of its kind currently available. 
 
@@ -23,8 +23,7 @@ The project received substantial funding primarily from Microsoft, which provide
 
 If I were to propose a recommendation i would advise a browser extension or application that behaves as a virtual personal assistant, updating users calendars and schedules in real time. By leveraging data collection, OpenAI could form strategic partnerships with other large-scale organizations by selling information to advertisers. 
 
-However, it is not the only LLM available its competition includes Cloude, Lama and Copilot all of which have come out in the past two years.so what sets ChatGPT apart? It's understanding of human language "ChatGPT's strength lies in its Natural Language Processing (NLP) capabilities. It understands the nuances of human language, be it idioms, industry-specific jargon, or cultural references. This creates a more intuitive and engaging user experience, making ChatGPT a powerful tool for a myriad of applications—from answering complex queries to creative writing."  
-main
+However, it is not the _only_ LLM available its competition includes Cloude, Lama and Copilot all of which have come out in the past two years.so what sets ChatGPT apart? It's understanding of human language "ChatGPT's strength lies in its Natural Language Processing (NLP) capabilities. It understands the nuances of human language, be it idioms, industry-specific jargon, or cultural references. This creates a more intuitive and engaging user experience, making ChatGPT a powerful tool for a myriad of applications—from answering complex queries to creative writing."  
 
   
 
@@ -32,7 +31,7 @@ main
 
   
 
-A new and unfortunate consequence of this technology has come about. plagiarism has skyrocketed. As ChatGPT becomes more accessible to the public, it is often misused to ensure academic success, leading some educators to declare it “the death of the essay.”  
+A new and unfortunate consequence of this technology has come about. plagiarism has __skyrocketed__. As ChatGPT becomes more accessible to the public, it is often misused to ensure academic success, leading some educators to declare it “the death of the essay.”  
 
   
 
@@ -48,7 +47,7 @@ OpenAI measures success through five critical metrics: accuracy, resolution rate
 
   
 
-If I were to propose a recommendation I would advise a browser extension or application that behaves as a virtual personal assistant, updating users’ calendars and schedules in real time. By leveraging data collection, OpenAI could form strategic partnerships with other large-scale organizations by selling information to advertisers.  
+If I were to propose a recommendation I would advise a browser extension or application that behaves as a virtual personal assistant, updating users calendars and schedules in real time. By leveraging data collection, OpenAI could form strategic partnerships with other large-scale organizations by selling information to advertisers.  
 
   
 
