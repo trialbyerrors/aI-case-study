@@ -6,7 +6,6 @@ The project received substantial funding primarily from Microsoft, which provide
 
   
 
- branch-1
 However, it is not the only LLM available its competition includes Cloude, Lama and Copilot all of which have come out in the past two years.so what sets ChatGPT apart? It's understanding of human language. 
 >"ChatGPT's strength lies in its Natural Language Processing (NLP) capabilities. It understands the nuances of human language, be it idioms, industry-specific jargon, or cultural references. This creates a more intuitive and engaging user experience, making ChatGPT a powerful tool for a myriad of applications—from answering complex queries to creative writing."
 
